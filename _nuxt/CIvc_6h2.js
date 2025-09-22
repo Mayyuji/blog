@@ -1,0 +1,1 @@
+import{_ as a,c as s,d as o,a as e,o as c}from"./BrLKRrVq.js";const n={};function r(d,t){return c(),s("div",null,t[0]||(t[0]=[o(" 这是首页 "),e("div",{class:"text-container"},[e("div",{class:"text"},[e("span",null,"123456789123456789")])],-1)]))}const _=a(n,[["render",r],["__scopeId","data-v-6b762862"]]);export{_ as default};
